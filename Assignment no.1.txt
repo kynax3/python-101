@@ -1,0 +1,48 @@
+assignment no.1 by Nishant Kumar
+
+Q1 - Guido van Rossum.
+
+Q2 - Primarily oops and structured programming.
+
+Q3 - Yes, python is a case sensitive language.
+
+Q4 - .py
+
+Q5 - Interpreted
+
+Q6 - def inte(x,y,z)
+	r=x+y-z
+	return (r)
+
+Q7 -  #
+
+Q8 -  import sys		or 	can write in command prompt-> python -- version and press enter
+      print(sys.version)
+
+Q9 -  def
+
+Q10 - pip is preferred installer program which is a management system built in python for managing packages
+
+Q11 - append, extend, count, union
+
+Q12 - 79 characters
+
+Q13 - 1.Large developer community- Python is one of the most popular programming languages in the world.
+	2.Extensive libraries- Python offers a wide range of libraries that can be used across various applications.
+	3.Write less, do more. Python has very concise syntax.
+	4.Portability.
+	5.Wide range of use cases.
+
+Q14 - All python objects and data structures are located in a private heap space.
+
+Q15 - The complete path of python.exe can be added by:
+	Right-clicking This PC and going to Properties.
+	Clicking on the Advanced system settings in the menu on the left.
+	Clicking on the Environment Variables button o​n the bottom right.
+	In the System variables section, selecting the Path variable and clicking on Edit.
+	The next screen will show all the directories that are currently a part of the PATH variable.
+	so that python can be accessed through the command prompt.
+
+Clicking on New and entering Python’s install directory.
+
+Q16 - Yes, indentation has meaning in python language.
